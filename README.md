@@ -1,6 +1,6 @@
 # flutter_filemanager
 
-A new Flutter application.
+UI of a "File Manager" application compatible on  Android and IOS devices , made using Flutter.
 
 ## Getting Started
 
