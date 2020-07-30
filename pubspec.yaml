@@ -19,7 +19,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  badges: ^1.1.1
+  badges: any
+  page_transition: ^1.1.5
+  fl_chart: ^0.4.2
+  percent_indicator: ^2.1.1+1
+
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
